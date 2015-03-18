@@ -50,6 +50,5 @@ Every event scored and pushed into the CricEngine has match commentary generated
 I hope this has given you a good understanding of what makes CricHQ’s scoring and viewing platforms tick, the CricEngine. Thank you for reading and feel free to leave a comment or get in touch with us directly. Keep an eye out for more blogs to come as we continue to redefine the way cricket is administered, shared, analysed and followed.
 
 
-Daniel Ryan
+Daniel Ryan,
 CricEngine Lead Developer
-CricHQ
