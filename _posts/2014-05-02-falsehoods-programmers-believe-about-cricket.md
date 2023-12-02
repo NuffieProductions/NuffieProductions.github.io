@@ -76,7 +76,7 @@ When both sides have been in and all the men have been out, and both sides have 
 
 ### Cricket in action!
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dEH4ahCCrJo
-" target="_blank">
-  <img src="http://img.youtube.com/vi/dEH4ahCCrJo/0.jpg" alt="Cricket Comedy Sketch" width="400" border="1" />
-</a>
+A Dutch Cricket Comedy Sketch:
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/E_6d3JBBo4s)](https://youtu.be/E_6d3JBBo4s)
+
