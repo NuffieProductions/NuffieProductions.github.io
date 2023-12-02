@@ -70,6 +70,7 @@ When both sides have been in and all the men have been out, and both sides have 
 46. A test always takes five days.
 47. A test always takes at most five days.
 48. The rules of cricket will never change.
+49. A One Day International (ODI) can only go for one day.
 
 
 
